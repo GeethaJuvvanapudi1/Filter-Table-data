@@ -1,0 +1,25 @@
+body{
+  background: rgb(163, 163, 167);
+}
+
+
+.table-container {
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #300e0e;
+  padding: 8px;
+}
+
+th {
+  background-color: #d32320;
+}
+td{
+  background-color: rgb(86, 233, 103);
+}
